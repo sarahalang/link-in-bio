@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Sarah A. Lang's Linktree'
+date: 2026-06-20
 type: landing
 
 design:
@@ -26,13 +26,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
+        - text: Find my bio and publications on my website
+          icon: academicons/cv
+          url: https://sarahalang.com/
+        - text: Check out my Digital Humanities YouTube channel
           icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.youtube.com/@sarahalang
+        - text: Read my (Digital Humanities) blog
+          icon: brands/tex
+          url: https://latex-ninja.com/
+        - text: Read my other blog (epigrammetry, #AcademicSelfHelp)
+          icon: academicons/hypothesis
+          url: https://epigrammetry.hypotheses.org/
 ---
