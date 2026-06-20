@@ -1,5 +1,5 @@
 ---
-title: 'Sarah A. Lang's Linktree'
+title: 'Sarah A. Lang'
 date: 2026-06-20
 type: landing
 
