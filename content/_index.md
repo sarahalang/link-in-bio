@@ -33,9 +33,9 @@ sections:
           icon: brands/youtube
           url: https://www.youtube.com/@sarahalang
         - text: Read my (Digital Humanities) blog
-          icon: brands/tex
+          icon: brands/wordpress
           url: https://latex-ninja.com/
-        - text: Read my other blog (epigrammetry, #AcademicSelfHelp)
+        - text: Read my other blog (epigrammetry) for some Academic Self Help content
           icon: academicons/hypothesis
           url: https://epigrammetry.hypotheses.org/
 ---
