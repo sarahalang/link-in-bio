@@ -26,16 +26,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Find my bio and publications on my website
+        - text: bio and publications on my website
           icon: academicons/cv
           url: https://sarahalang.com/
-        - text: Check out my Digital Humanities YouTube channel
+        - text: Digital Humanities YouTube channel
           icon: brands/youtube
           url: https://www.youtube.com/@sarahalang
-        - text: Read my (Digital Humanities) blog
+        - text: Digital Humanities blog
           icon: brands/wordpress
           url: https://latex-ninja.com/
-        - text: Read my other blog (epigrammetry) for some Academic Self Help content
+        - text: blog (epigrammetry) on Academic Self Help 
           icon: academicons/hypothesis
           url: https://epigrammetry.hypotheses.org/
 ---
