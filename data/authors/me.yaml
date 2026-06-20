@@ -18,7 +18,7 @@ links:
   - icon: at-symbol
     url: mailto:slang@mpiwg-berlin.mpg.de
     label: E-mail Me
-  - icon: laptop
+  - icon: fa-laptop
     url: https://sarahalang.com/
     label: Website
   - icon: brands/mastodon
